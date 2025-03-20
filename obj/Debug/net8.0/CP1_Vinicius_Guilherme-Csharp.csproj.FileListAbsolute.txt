@@ -1,0 +1,14 @@
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/bin/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/bin/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.deps.json
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/bin/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.runtimeconfig.json
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/bin/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.dll
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/bin/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.pdb
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/obj/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/obj/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.AssemblyInfoInputs.cache
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/obj/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.AssemblyInfo.cs
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/obj/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.csproj.CoreCompileInputs.cache
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/obj/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.dll
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/obj/Debug/net8.0/refint/CP1_Vinicius_Guilherme-Csharp.dll
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/obj/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.pdb
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/obj/Debug/net8.0/CP1_Vinicius_Guilherme-Csharp.genruntimeconfig.cache
+/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/obj/Debug/net8.0/ref/CP1_Vinicius_Guilherme-Csharp.dll
