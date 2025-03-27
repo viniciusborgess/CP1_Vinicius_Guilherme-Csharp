@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/CP1_Vinicius_Guilherme-Csharp.csproj",
+      "projectUniqueName": "/Users/vinicius/CP1_Vinicius_Guilherme-Csharp/CP1_Vinicius_Guilherme-Csharp.csproj",
       "projectName": "CP1_Vinicius_Guilherme-Csharp",
-      "projectPath": "/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/CP1_Vinicius_Guilherme-Csharp.csproj",
+      "projectPath": "/Users/vinicius/CP1_Vinicius_Guilherme-Csharp/CP1_Vinicius_Guilherme-Csharp.csproj",
       "packagesPath": "/Users/vinicius/.nuget/packages/",
-      "outputPath": "/Users/vinicius/Desktop/CP1_Vinicius_Guilherme-Csharp/obj/",
+      "outputPath": "/Users/vinicius/CP1_Vinicius_Guilherme-Csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vinicius/.nuget/NuGet/NuGet.Config"
